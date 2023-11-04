@@ -1,2 +1,3 @@
-# tutorials-oop
-This repository contains all second year tutorials related to OOP
+This repository contains the tutorials in the order of weeks.
+
+Week 02 - Classes, Objects, Getters, Setters, Constructors and Methods
