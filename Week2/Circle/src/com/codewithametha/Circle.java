@@ -18,23 +18,23 @@ public class Circle {
         this.radius = radius;
         this.color = color;
     }
-    double getRadius() {
+    public double getRadius() {
         return radius;
     }
 
-    double getArea() {
+    public double getArea() {
         return Math.PI * (Math.sqrt(radius));
     }
 
-    String getColor() {
+    public String getColor() {
         return color;
     }
 
-    void setRadius(int radius) {
+    public void setRadius(int radius) {
         this.radius = radius;
     }
 
-    void setColor(String color) {
+    public void setColor(String color) {
         this.color = color;
     }
 
