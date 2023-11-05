@@ -21,7 +21,7 @@ public class Circle {
     }
 
     double getArea() {
-        return Math.PI * (Math.pow(radius,2));
+        return Math.PI * (Math.sqrt(radius));
     }
 
     String getColor() {
